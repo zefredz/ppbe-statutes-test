@@ -2,10 +2,10 @@
 
 ![logo](220px-Piratpartiet.svg.png)
 
-Louvain-la-Neuve, 22.12.2012
-Strombeek-Bever, 24.03.2013
-Ghent, 29.06.2013
-Ukkel - Uccle, 9.08.2014
+* Louvain-la-Neuve, 22.12.2012
+* Strombeek-Bever, 24.03.2013
+* Ghent, 29.06.2013
+* Ukkel - Uccle, 9.08.2014
 
 [TOC]
 
@@ -105,7 +105,6 @@ I.3.3 Le paiement de la cotisation est dû pour le Parti Pirate et aucune autre 
 I.3.4 Un membre peut, sous certaines conditions, ne pas payer la cotisation.
 
 I.3.5 Pour devenir membre, il faut :
-
 a) être en règle de cotisation
 b) adhérer à certains principes
 c) n’être membre d’aucun groupe qui renierait les principes fondamentaux du Parti
@@ -128,7 +127,6 @@ I.3.12 Les membres de l’association de fait et leurs successeurs, à la fois p
 I.3.13 L’exclusion ou la suspension d’un membre est prononcée par décision du Conseil du Parti.
 
 I.3.14 Est exclu d’office :
-
 a) tout membre figurant sur une liste de candidats à une élection concurrente
 b) tout élu mandataire politique qui, sans démissionner de son mandat ou sans accord de l’assemblée des membres concernés ou de la Coreteam, décide de siéger comme indépendant ou avec les membres d’un Groupe politique issus d’un autre parti politique.
 
@@ -254,9 +252,9 @@ II.3.A.8 Les décisions internes de la Coreteam se prennent de préférence à l
 
 II.3.A.9 La Coreteam se conforme au principe de subsidiarité. Cela signifie que le pouvoir est décentralisé à moins qu'il soit plus efficace de déléguer ce pouvoir à la Coreteam. Ce même principe s'applique aussi pour d'éventuels niveaux de décisions entre la Coreteam et les Crews.
 
-#### II.4.B. Rôles au sein de la Coreteam
+#### II.3.B. Rôles au sein de la Coreteam
 
-##### II.4.B.1 Integration :
+##### II.3.B.1 Integration :
 
 La Coreteam aide et assure le lien entre les pirates en Belgique.
 Elle assure la communication dans les deux sens avec les pirates belges.
@@ -265,13 +263,13 @@ Elle sert de référence aux nouveaux équipage et les aide.
 
 La Coreteam fera en sorte que cette responsabilité soit effectuée de la manière la plus appropriée : un ou plusieurs membre(s) de la Coreteam, un membre du parti extérieur à la Coreteam, un professionnel, une Squad entière,...
 
-##### II.4.B.2 Trésorerie :
+##### II.3.B.2 Trésorerie :
 
 a) Gèrer les finances nationales.
 b) Gèrer le compte du Parti Pirate belge.
 c) Pouvoir: La gestion financière journalière du parti, la bonne santé financière du parti en maintenant les comptes du parti, et la comptabilité du parti. Pour chaque versement reçu, informer les autres membres de la Coreteam responsables du traitement de ce paiement en y joignant la motivation.
 
-##### II.4.B.3 Coordination :
+##### II.3.B.3 Coordination :
 
 Coordonner les décisions à prendre en tant que parti.
 Répertorier les activités des pirates belges.
@@ -280,26 +278,26 @@ Aider les nouveaux équipages et nouvelles escouades à se former.
 
 La Coreteam fera en sorte que cette responsabilité soit effectuée de la manière la plus appropriée : un ou plusieurs membre(s) de la Coreteam, un membre du parti extérieur à la Coreteam, un professionnel, une Squad entière,...
 
-##### II.4.B.4 Le secrétaire :
+##### II.3.B.4 Le secrétaire :
 
 a) Faire un compte rendu des réunions de la coreteam et des activités administratives journalières du parti. Gérer la liste des membres.
 b) Gèrer la base de donnée des membres,  organiser le merchandising et gérer les cartes de membres du parti pirate.
 
 Le coreteam est responsable de la logistique du parti et la gestion du webshop.
 
-##### II.4.B.5 La presse :
+##### II.3.B.5 La presse :
 
 Aider le plus tôt possible à interragir avec la presse, la préparation et l'élaboration d'un dossier de presse sur le parti, encourager une couverture médiatique aussi large que possible sur le parti.
 
 La Coreteam fera en sorte que cette responsabilité soit effectuée de la manière la plus appropriée : un ou plusieurs membre(s) de la Coreteam, un membre du parti extérieur à la Coreteam, un professionnel, une Squad entière,...
 
-##### II.4.B.6 International :
+##### II.3.B.6 International :
 
 Entretenir des rapports avec les Pirates des autres pays, assurer la représentation du parti dans les différentes instances internationales auxquelles le Parti Pirate participe, faire le compte rendu de ces échanges et organiser des débats à propos de ces instances.
 
 La Coreteam fera en sorte que cette responsabilité soit effectuée de la manière la plus appropriée : un ou plusieurs membre(s) de la Coreteam, un membre du parti extérieur à la Coreteam, un professionnel, une Squad entière,...
 
-##### II.4.B.6 IT :
+##### II.3.B.6 IT :
 
 Assurer la maintenance de l'infrastructure IT et du site web, l'organisation et la mise en place de l'infrastructure nécessaire aux AG et la sécurisation des données du parti.
 
