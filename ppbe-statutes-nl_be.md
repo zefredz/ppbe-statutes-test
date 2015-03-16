@@ -2,10 +2,10 @@
 
 ![logo](220px-Piratpartiet.svg.png)
 
-Louvain-la-Neuve, 22.12.2012
-Strombeek-Bever, 24.03.2013
-Ghent, 29.06.2013
-Ukkel - Uccle, 9.08.2014
+* Louvain-la-Neuve, 22.12.2012
+* Strombeek-Bever, 24.03.2013
+* Ghent, 29.06.2013
+* Ukkel - Uccle, 9.08.2014
 
 [TOC]
 
@@ -27,7 +27,7 @@ I.2.1 De piraten handelen volgens de volgende principes, die de gemeenschappelij
 
 #### I.2.1.1. Vrijheden
 
-I.2.1.1.1 Individuele vrijheid hoort bij een collectieve verantwoordelijkheid, onafhankelijkheid, autonomie en kritisch oordeel. 
+I.2.1.1.1 Individuele vrijheid hoort bij een collectieve verantwoordelijkheid, onafhankelijkheid, autonomie en kritisch oordeel.
 
 I.2.1.1.2. Piraten focussen in het bijzonder op deze fundamentele vrijheden:
 
@@ -65,7 +65,7 @@ I.2.1.4.6. Imperatief mandaat: Alle gemandateerde officials voeren een opdracht 
 
 I.2.1.4.7. Anti-professionalisatie: Politiek is een burgerlijke zaak, en niet enkel voor professionals of experten. Debatten en wetten moeten uitgedrukt worden in een taal die verstaanbaar is voor zo veel mogelijk mensen.
 
-#### I.2.1.5. Creativiteit: 
+#### I.2.1.5. Creativiteit:
 
 I.2.1.5.1 Piraten zijn creatief, nieuwsgierig en niet tevreden met de status quo. Ze dagen het systeem uit, zoeken haar zwakheden en zoeken en vinden manieren om die te corrigeren. Piraten leren van hun fouten.
 
@@ -441,7 +441,7 @@ III.2.2 Een gewone meerderheid bedraagt meer dan de helft van de uitgebrachte st
 
 ```[100*(V5-1)]/2 % ~ 61,8%```
 
-III.2.3 Onthoudingen worden niet meegerekend voor het behalen van de meerderheid. 
+III.2.3 Onthoudingen worden niet meegerekend voor het behalen van de meerderheid.
 
 III.2.4 Ongeldige stemmen worden nooit meegerekend.
 
