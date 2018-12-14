@@ -446,7 +446,9 @@ III.2.1 Toutes les décisions sont prises à la majorité simple, sauf si une ma
 
 III.2.2 Une majorité simple signifie plus de la moitié des suffrages exprimés, sans prendre en compte les abstentions. Une majorité spéciale comprend au moins le nombre d’or des suffrages exprimés :
 
-```[100*(V5-1)]/2 % ~ 61,8%``
+```
+[100*(V5-1)]/2 % ~ 61,8%
+```
 
 III.2.3 Les abstentions ne sont pas prises en compte pour le calcul des majorités.
 
